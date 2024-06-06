@@ -59,11 +59,11 @@ Federico Messineo-πάντα ῥεῖ
 </head>
 <body>
     <header>
-        <h1>La Mia Tesina</h1>
+        <h1>πάντα ῥεῖ</h1>
     </header>
     <main>
         <section>
-            <h2>πάντα ῥεῖ</h2>
+            <h2>il nostro viaggio</h2>
             <p>Benvenuti nel mio sito dedicato all'esplorazione del concetto di Panta rei. Qui intraprenderemo un viaggio filosofico alla scoperta di questa concezione che abbraccia l'interconnessione di tutte le cose nell'universo. Attraverso saggi, riflessioni e approfondimenti, esploreremo il significato profondo di Panta rei e il suo impatto sulla nostra comprensione del mondo e di noi stessi..</p>
         </section>
         <section>
